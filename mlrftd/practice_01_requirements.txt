@@ -1,0 +1,5 @@
+numpy
+matplotlib
+jupyter
+scikit-image
+opencv-contrib-python-headless
